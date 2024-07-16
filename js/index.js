@@ -47,6 +47,16 @@ window.onscroll=()=>{
     })
 }
 
+/* Using scrollrevealjs scroll effect*/
+
+ScrollReveal().reveal('.navigation');
+ScrollReveal().reveal('#heroImg');
+ScrollReveal().reveal('#myWork');
+ScrollReveal().reveal('#mySkills');
+ScrollReveal().reveal('#platformsClass');
+ScrollReveal().reveal('footer');
+
+
 
 
 console.log("Pls send coffee ☕☕ (btw, this means your index.js file is loaded correctly!)")
