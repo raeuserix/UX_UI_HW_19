@@ -26,6 +26,7 @@ $('.navigation a[href^="#"]').on("click", function (event) {
 
 })
 
+/*Active Scrollable Display*/
 
 let sections = document.querySelectorAll('section');
 let navLink = document.querySelectorAll('header nav a');
